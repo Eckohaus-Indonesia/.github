@@ -1,26 +1,66 @@
-# ☨ ECKOHAUS INDONESIA // NODE ARSIP REGIONAL ☨
+# ☨ ECKOHAUS INDONESIA — NODE PENGEMBANGAN MAGENTO ☨
 
-> **JUPITER-IV-TERMINAL • DOMISILI INDONESIA**
-> *Sanitasi data kreatif dan manajemen kerangka kerja KI federal.*
-
----
-
-### ◧ ARAHAN REGIONAL: ID/01
-Eckohaus Indonesia berdomisili di Indonesia, beroperasi sebagai jembatan administratif lokal untuk sektor kreatif. Fungsi kami adalah pengelolaan aset kreatif secara aman, audit teknis infrastruktur berbasis Magento, dan preservasi arsip media digital di bawah standar regulasi Indonesia.
-
-### ◧ DEPLOYMENT RELASIONAL
-Node Indonesia bertanggung jawab atas orkestrasi dan pemeliharaan etalase regional, memastikan bahwa semua perutean lokal, aturan emas SMTP, dan gaya terminal frontend sinkron dengan perusahaan global.
-
-* **[ INGRESS AMAN ]**: Lingkungan produksi berbasis Indonesia untuk portofolio kreatif.
-* **[ JEMBATAN ARSIP ]**: Sanitasi data mentah untuk registrasi kekayaan intelektual federal.
-* **[ BAYANGAN SISTEM ]**: Pengujian dan penyebaran ekstensi LESS-engine regional.
+> Pengembangan, integrasi, dan dukungan audit teknis berbasis Magento.
 
 ---
 
-### ◧ ANTARMUKA / KONTAK
-Untuk konsultasi domisili Indonesia, audit proyek teknis, atau manajemen data arsip:
+## ◧ GAMBARAN UMUM
 
-**[ KUNJUNGI BUTIK (ID) ](https://ded-beat-boutique.com/id/)** | **[ BLOG SISTEM ](https://eckohaus.blog)** | **[ PERTANYAAN ADMIN ](mailto:admin@ded-beat-boutique.com)**
+Organisasi GitHub ini berisi **framework pengembangan, modul, dan dokumentasi teknis** yang mendukung sistem e-commerce berbasis Magento.
+
+Seluruh repositori mencerminkan pekerjaan aktif maupun arsip yang berasal dari:
+
+→ https://ded-beat-boutique.com
 
 ---
-*† FUNGSI REGIONAL: 62 // BERDOMISILI DI INDONESIA †*
+
+## ◧ KEMAMPUAN UTAMA
+
+- Pengembangan modul Magento 2  
+- Integrasi gateway pembayaran (mis. Cardnet, Adobe Commerce API)  
+- Ekstensi panel admin & tooling backend  
+- Pengembangan frontend (LESS/CSS, komponen UI)  
+- Audit infrastruktur toko & optimasi performa  
+
+---
+
+## ◧ STRUKTUR REPOSITORI
+
+Setiap repositori merupakan **unit pengembangan mandiri**, yang mencakup:
+
+- Source code modul  
+- Logika integrasi (API, sistem pembayaran, layanan pihak ketiga)  
+- Konfigurasi dan catatan deployment  
+- Dokumentasi teknis  
+
+---
+
+## ◧ RUANG LINGKUP PENGEMBANGAN
+
+Fokus pengembangan meliputi:
+
+- Pembuatan modul Magento kustom  
+- Integrasi Commerce API  
+- Sistem pemrosesan pembayaran  
+- Kustomisasi dan optimasi storefront  
+- Debugging dan audit teknis pada instalasi Magento yang sudah ada  
+
+---
+
+## ◧ TITIK MASUK
+
+Layanan klien, pengembangan, dan permintaan projek dilakukan melalui:
+
+→ https://ded-beat-boutique.com  
+
+---
+
+## ◧ KONTAK
+
+Untuk pertanyaan teknis dan permintaan projek:
+
+→ admin@ded-beat-boutique.com  
+
+---
+
+*† NODE INDONESIA // SISTEM MAGENTO • TERHUBUNG ARSIP †*
